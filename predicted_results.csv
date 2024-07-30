@@ -1,0 +1,761 @@
+Venue,Opponent,Team,Time,predicted_result
+Home,Wolves,Arsenal,15:00,W
+Away,Aston Villa,Arsenal,17:30,W
+Home,Brighton,Arsenal,12:30,W
+Away,Tottenham,Arsenal,14:00,W
+Away,Manchester City,Arsenal,16:30,W
+Home,Leicester City,Arsenal,15:00,W
+Home,Southampton,Arsenal,15:00,W
+Away,Bournemouth,Arsenal,15:00,W
+Home,Liverpool,Arsenal,15:00,W
+Away,Newcastle Utd,Arsenal,15:00,W
+Away,Chelsea,Arsenal,15:00,W
+Home,Nott'ham Forest,Arsenal,15:00,W
+Away,West Ham,Arsenal,15:00,W
+Home,Manchester Utd,Arsenal,19:45,W
+Away,Fulham,Arsenal,15:00,W
+Home,Everton,Arsenal,15:00,W
+Away,Crystal Palace,Arsenal,15:00,W
+Home,Ipswich Town,Arsenal,15:00,W
+Away,Brentford,Arsenal,15:00,W
+Away,Brighton,Arsenal,15:00,W
+Home,Tottenham,Arsenal,19:45,W
+Home,Aston Villa,Arsenal,15:00,W
+Away,Wolves,Arsenal,15:00,W
+Home,Manchester City,Arsenal,15:00,W
+Away,Leicester City,Arsenal,15:00,W
+Home,West Ham,Arsenal,15:00,W
+Away,Nott'ham Forest,Arsenal,19:45,W
+Away,Manchester Utd,Arsenal,15:00,W
+Home,Chelsea,Arsenal,15:00,W
+Home,Fulham,Arsenal,19:45,W
+Away,Everton,Arsenal,15:00,W
+Home,Brentford,Arsenal,15:00,W
+Away,Ipswich Town,Arsenal,15:00,W
+Home,Crystal Palace,Arsenal,15:00,W
+Home,Bournemouth,Arsenal,15:00,W
+Away,Liverpool,Arsenal,15:00,W
+Home,Newcastle Utd,Arsenal,15:00,W
+Away,Southampton,Arsenal,16:00,W
+Away,West Ham,Aston Villa,17:30,L
+Home,Arsenal,Aston Villa,17:30,L
+Away,Leicester City,Aston Villa,15:00,L
+Home,Everton,Aston Villa,17:30,L
+Home,Wolves,Aston Villa,15:00,W
+Away,Ipswich Town,Aston Villa,14:00,L
+Home,Manchester Utd,Aston Villa,15:00,L
+Away,Fulham,Aston Villa,15:00,L
+Home,Bournemouth,Aston Villa,15:00,L
+Away,Tottenham,Aston Villa,15:00,L
+Away,Liverpool,Aston Villa,15:00,L
+Home,Crystal Palace,Aston Villa,15:00,D
+Away,Chelsea,Aston Villa,15:00,L
+Home,Brentford,Aston Villa,19:45,L
+Home,Southampton,Aston Villa,15:00,W
+Away,Nott'ham Forest,Aston Villa,15:00,L
+Home,Manchester City,Aston Villa,15:00,L
+Away,Newcastle Utd,Aston Villa,15:00,L
+Home,Brighton,Aston Villa,15:00,D
+Home,Leicester City,Aston Villa,15:00,D
+Away,Everton,Aston Villa,19:45,L
+Away,Arsenal,Aston Villa,15:00,L
+Home,West Ham,Aston Villa,15:00,W
+Away,Wolves,Aston Villa,15:00,L
+Home,Ipswich Town,Aston Villa,15:00,D
+Home,Chelsea,Aston Villa,15:00,D
+Away,Crystal Palace,Aston Villa,20:00,L
+Away,Brentford,Aston Villa,15:00,L
+Home,Liverpool,Aston Villa,15:00,D
+Away,Brighton,Aston Villa,19:45,L
+Home,Nott'ham Forest,Aston Villa,15:00,W
+Away,Southampton,Aston Villa,15:00,L
+Home,Newcastle Utd,Aston Villa,15:00,W
+Away,Manchester City,Aston Villa,15:00,L
+Home,Fulham,Aston Villa,15:00,D
+Away,Bournemouth,Aston Villa,15:00,L
+Home,Tottenham,Aston Villa,15:00,W
+Away,Manchester Utd,Aston Villa,16:00,D
+Away,Nott'ham Forest,Bournemouth,15:00,L
+Home,Newcastle Utd,Bournemouth,14:00,L
+Away,Everton,Bournemouth,15:00,W
+Home,Chelsea,Bournemouth,20:00,W
+Away,Liverpool,Bournemouth,15:00,L
+Home,Southampton,Bournemouth,20:00,D
+Away,Leicester City,Bournemouth,15:00,L
+Home,Arsenal,Bournemouth,15:00,W
+Away,Aston Villa,Bournemouth,15:00,L
+Home,Manchester City,Bournemouth,15:00,L
+Away,Brentford,Bournemouth,15:00,W
+Home,Brighton,Bournemouth,15:00,W
+Away,Wolves,Bournemouth,15:00,L
+Home,Tottenham,Bournemouth,19:45,W
+Away,Ipswich Town,Bournemouth,15:00,L
+Home,West Ham,Bournemouth,15:00,W
+Away,Manchester Utd,Bournemouth,15:00,L
+Home,Crystal Palace,Bournemouth,15:00,W
+Away,Fulham,Bournemouth,15:00,L
+Home,Everton,Bournemouth,15:00,W
+Away,Chelsea,Bournemouth,19:45,W
+Away,Newcastle Utd,Bournemouth,15:00,L
+Home,Nott'ham Forest,Bournemouth,15:00,D
+Home,Liverpool,Bournemouth,15:00,W
+Away,Southampton,Bournemouth,15:00,L
+Home,Wolves,Bournemouth,15:00,W
+Away,Brighton,Bournemouth,19:45,D
+Away,Tottenham,Bournemouth,15:00,L
+Home,Brentford,Bournemouth,15:00,W
+Home,Ipswich Town,Bournemouth,19:45,W
+Away,West Ham,Bournemouth,15:00,L
+Home,Fulham,Bournemouth,15:00,W
+Away,Crystal Palace,Bournemouth,15:00,W
+Home,Manchester Utd,Bournemouth,15:00,W
+Away,Arsenal,Bournemouth,15:00,L
+Home,Aston Villa,Bournemouth,15:00,L
+Away,Manchester City,Bournemouth,15:00,L
+Home,Leicester City,Bournemouth,16:00,L
+Home,Crystal Palace,Brentford,14:00,W
+Away,Liverpool,Brentford,16:30,L
+Home,Southampton,Brentford,15:00,W
+Away,Manchester City,Brentford,15:00,L
+Away,Tottenham,Brentford,15:00,W
+Home,West Ham,Brentford,15:00,W
+Home,Wolves,Brentford,15:00,W
+Away,Manchester Utd,Brentford,15:00,W
+Home,Ipswich Town,Brentford,15:00,W
+Away,Fulham,Brentford,15:00,W
+Home,Bournemouth,Brentford,15:00,W
+Away,Everton,Brentford,15:00,W
+Home,Leicester City,Brentford,15:00,W
+Away,Aston Villa,Brentford,19:45,L
+Home,Newcastle Utd,Brentford,15:00,W
+Away,Chelsea,Brentford,15:00,W
+Home,Nott'ham Forest,Brentford,15:00,W
+Away,Brighton,Brentford,15:00,L
+Home,Arsenal,Brentford,15:00,W
+Away,Southampton,Brentford,15:00,W
+Home,Manchester City,Brentford,19:45,W
+Home,Liverpool,Brentford,15:00,W
+Away,Crystal Palace,Brentford,15:00,W
+Home,Tottenham,Brentford,15:00,W
+Away,West Ham,Brentford,15:00,W
+Away,Leicester City,Brentford,15:00,L
+Home,Everton,Brentford,19:45,W
+Home,Aston Villa,Brentford,15:00,W
+Away,Bournemouth,Brentford,15:00,W
+Away,Newcastle Utd,Brentford,19:45,W
+Home,Chelsea,Brentford,15:00,W
+Away,Arsenal,Brentford,15:00,W
+Home,Brighton,Brentford,15:00,W
+Away,Nott'ham Forest,Brentford,15:00,W
+Home,Manchester Utd,Brentford,15:00,W
+Away,Ipswich Town,Brentford,15:00,W
+Home,Fulham,Brentford,15:00,W
+Away,Wolves,Brentford,16:00,W
+Away,Everton,Brighton and Hove Albion,15:00,D
+Home,Manchester Utd,Brighton and Hove Albion,12:30,L
+Away,Arsenal,Brighton and Hove Albion,12:30,L
+Home,Ipswich Town,Brighton and Hove Albion,15:00,L
+Home,Nott'ham Forest,Brighton and Hove Albion,14:00,L
+Away,Chelsea,Brighton and Hove Albion,15:00,D
+Home,Tottenham,Brighton and Hove Albion,15:00,L
+Away,Newcastle Utd,Brighton and Hove Albion,15:00,L
+Home,Wolves,Brighton and Hove Albion,15:00,D
+Away,Liverpool,Brighton and Hove Albion,15:00,L
+Home,Manchester City,Brighton and Hove Albion,15:00,L
+Away,Bournemouth,Brighton and Hove Albion,15:00,D
+Home,Southampton,Brighton and Hove Albion,15:00,L
+Away,Fulham,Brighton and Hove Albion,19:45,D
+Away,Leicester City,Brighton and Hove Albion,15:00,L
+Home,Crystal Palace,Brighton and Hove Albion,15:00,W
+Away,West Ham,Brighton and Hove Albion,15:00,L
+Home,Brentford,Brighton and Hove Albion,15:00,D
+Away,Aston Villa,Brighton and Hove Albion,15:00,L
+Home,Arsenal,Brighton and Hove Albion,15:00,L
+Away,Ipswich Town,Brighton and Hove Albion,19:45,D
+Away,Manchester Utd,Brighton and Hove Albion,15:00,L
+Home,Everton,Brighton and Hove Albion,15:00,D
+Away,Nott'ham Forest,Brighton and Hove Albion,15:00,D
+Home,Chelsea,Brighton and Hove Albion,15:00,W
+Away,Southampton,Brighton and Hove Albion,15:00,L
+Home,Bournemouth,Brighton and Hove Albion,19:45,L
+Home,Fulham,Brighton and Hove Albion,15:00,L
+Away,Manchester City,Brighton and Hove Albion,15:00,L
+Home,Aston Villa,Brighton and Hove Albion,19:45,L
+Away,Crystal Palace,Brighton and Hove Albion,15:00,D
+Home,Leicester City,Brighton and Hove Albion,15:00,L
+Away,Brentford,Brighton and Hove Albion,15:00,D
+Home,West Ham,Brighton and Hove Albion,15:00,L
+Home,Newcastle Utd,Brighton and Hove Albion,15:00,L
+Away,Wolves,Brighton and Hove Albion,15:00,L
+Home,Liverpool,Brighton and Hove Albion,15:00,L
+Away,Tottenham,Brighton and Hove Albion,16:00,L
+Home,Manchester City,Chelsea,16:30,W
+Away,Wolves,Chelsea,14:00,W
+Home,Crystal Palace,Chelsea,13:30,W
+Away,Bournemouth,Chelsea,20:00,W
+Away,West Ham,Chelsea,12:30,W
+Home,Brighton,Chelsea,15:00,W
+Home,Nott'ham Forest,Chelsea,15:00,W
+Away,Liverpool,Chelsea,15:00,W
+Home,Newcastle Utd,Chelsea,15:00,W
+Away,Manchester Utd,Chelsea,15:00,W
+Home,Arsenal,Chelsea,15:00,W
+Away,Leicester City,Chelsea,15:00,W
+Home,Aston Villa,Chelsea,15:00,W
+Away,Southampton,Chelsea,19:45,W
+Away,Tottenham,Chelsea,15:00,W
+Home,Brentford,Chelsea,15:00,W
+Away,Everton,Chelsea,15:00,W
+Home,Fulham,Chelsea,15:00,W
+Away,Ipswich Town,Chelsea,15:00,W
+Away,Crystal Palace,Chelsea,15:00,W
+Home,Bournemouth,Chelsea,19:45,W
+Home,Wolves,Chelsea,15:00,W
+Away,Manchester City,Chelsea,15:00,W
+Home,West Ham,Chelsea,15:00,W
+Away,Brighton,Chelsea,15:00,W
+Away,Aston Villa,Chelsea,15:00,W
+Home,Southampton,Chelsea,19:45,W
+Home,Leicester City,Chelsea,15:00,W
+Away,Arsenal,Chelsea,15:00,W
+Home,Tottenham,Chelsea,19:45,W
+Away,Brentford,Chelsea,15:00,W
+Home,Ipswich Town,Chelsea,15:00,W
+Away,Fulham,Chelsea,15:00,W
+Home,Everton,Chelsea,15:00,W
+Home,Liverpool,Chelsea,15:00,W
+Away,Newcastle Utd,Chelsea,15:00,W
+Home,Manchester Utd,Chelsea,15:00,W
+Away,Nott'ham Forest,Chelsea,16:00,W
+Away,Brentford,Crystal Palace,14:00,W
+Home,West Ham,Crystal Palace,15:00,W
+Away,Chelsea,Crystal Palace,13:30,W
+Home,Leicester City,Crystal Palace,15:00,W
+Home,Manchester Utd,Crystal Palace,17:30,W
+Away,Everton,Crystal Palace,15:00,W
+Home,Liverpool,Crystal Palace,15:00,W
+Away,Nott'ham Forest,Crystal Palace,15:00,W
+Home,Tottenham,Crystal Palace,15:00,W
+Away,Wolves,Crystal Palace,15:00,W
+Home,Fulham,Crystal Palace,15:00,W
+Away,Aston Villa,Crystal Palace,15:00,W
+Home,Newcastle Utd,Crystal Palace,15:00,W
+Away,Ipswich Town,Crystal Palace,19:45,W
+Home,Manchester City,Crystal Palace,15:00,W
+Away,Brighton,Crystal Palace,15:00,W
+Home,Arsenal,Crystal Palace,15:00,W
+Away,Bournemouth,Crystal Palace,15:00,W
+Home,Southampton,Crystal Palace,15:00,W
+Home,Chelsea,Crystal Palace,15:00,W
+Away,Leicester City,Crystal Palace,19:45,W
+Away,West Ham,Crystal Palace,15:00,W
+Home,Brentford,Crystal Palace,15:00,W
+Away,Manchester Utd,Crystal Palace,15:00,W
+Home,Everton,Crystal Palace,15:00,W
+Away,Fulham,Crystal Palace,15:00,W
+Home,Aston Villa,Crystal Palace,20:00,W
+Home,Ipswich Town,Crystal Palace,15:00,W
+Away,Newcastle Utd,Crystal Palace,15:00,W
+Away,Southampton,Crystal Palace,19:45,W
+Home,Brighton,Crystal Palace,15:00,W
+Away,Manchester City,Crystal Palace,15:00,W
+Home,Bournemouth,Crystal Palace,15:00,W
+Away,Arsenal,Crystal Palace,15:00,W
+Home,Nott'ham Forest,Crystal Palace,15:00,W
+Away,Tottenham,Crystal Palace,15:00,W
+Home,Wolves,Crystal Palace,15:00,W
+Away,Liverpool,Crystal Palace,16:00,W
+Home,Brighton,Everton,15:00,W
+Away,Tottenham,Everton,15:00,W
+Home,Bournemouth,Everton,15:00,W
+Away,Aston Villa,Everton,17:30,L
+Away,Leicester City,Everton,15:00,W
+Home,Crystal Palace,Everton,15:00,W
+Home,Newcastle Utd,Everton,15:00,W
+Away,Ipswich Town,Everton,15:00,W
+Home,Fulham,Everton,15:00,W
+Away,Southampton,Everton,15:00,W
+Away,West Ham,Everton,15:00,W
+Home,Brentford,Everton,15:00,W
+Away,Manchester Utd,Everton,15:00,W
+Home,Wolves,Everton,19:45,W
+Home,Liverpool,Everton,15:00,W
+Away,Arsenal,Everton,15:00,L
+Home,Chelsea,Everton,15:00,W
+Away,Manchester City,Everton,15:00,W
+Home,Nott'ham Forest,Everton,15:00,W
+Away,Bournemouth,Everton,15:00,W
+Home,Aston Villa,Everton,19:45,W
+Home,Tottenham,Everton,15:00,W
+Away,Brighton,Everton,15:00,W
+Home,Leicester City,Everton,15:00,W
+Away,Crystal Palace,Everton,15:00,W
+Home,Manchester Utd,Everton,15:00,W
+Away,Brentford,Everton,19:45,W
+Away,Wolves,Everton,15:00,W
+Home,West Ham,Everton,15:00,W
+Away,Liverpool,Everton,20:00,W
+Home,Arsenal,Everton,15:00,W
+Away,Nott'ham Forest,Everton,15:00,W
+Home,Manchester City,Everton,15:00,W
+Away,Chelsea,Everton,15:00,W
+Home,Ipswich Town,Everton,15:00,W
+Away,Fulham,Everton,15:00,W
+Home,Southampton,Everton,15:00,W
+Away,Newcastle Utd,Everton,16:00,L
+Away,Manchester Utd,Fulham,20:00,L
+Home,Leicester City,Fulham,15:00,L
+Away,Ipswich Town,Fulham,15:00,D
+Home,West Ham,Fulham,15:00,L
+Home,Newcastle Utd,Fulham,15:00,L
+Away,Nott'ham Forest,Fulham,15:00,W
+Away,Manchester City,Fulham,15:00,L
+Home,Aston Villa,Fulham,15:00,L
+Away,Everton,Fulham,15:00,D
+Home,Brentford,Fulham,15:00,L
+Away,Crystal Palace,Fulham,15:00,D
+Home,Wolves,Fulham,15:00,L
+Away,Tottenham,Fulham,15:00,W
+Home,Brighton,Fulham,19:45,L
+Home,Arsenal,Fulham,15:00,L
+Away,Liverpool,Fulham,15:00,L
+Home,Southampton,Fulham,15:00,W
+Away,Chelsea,Fulham,15:00,L
+Home,Bournemouth,Fulham,15:00,L
+Home,Ipswich Town,Fulham,15:00,L
+Away,West Ham,Fulham,19:45,L
+Away,Leicester City,Fulham,15:00,L
+Home,Manchester Utd,Fulham,15:00,L
+Away,Newcastle Utd,Fulham,15:00,W
+Home,Nott'ham Forest,Fulham,15:00,L
+Home,Crystal Palace,Fulham,15:00,L
+Away,Wolves,Fulham,19:45,L
+Away,Brighton,Fulham,15:00,D
+Home,Tottenham,Fulham,15:00,L
+Away,Arsenal,Fulham,19:45,L
+Home,Liverpool,Fulham,15:00,L
+Away,Bournemouth,Fulham,15:00,D
+Home,Chelsea,Fulham,15:00,L
+Away,Southampton,Fulham,15:00,W
+Away,Aston Villa,Fulham,15:00,L
+Home,Everton,Fulham,15:00,L
+Away,Brentford,Fulham,15:00,L
+Home,Manchester City,Fulham,16:00,L
+Home,Liverpool,Ipswich Town,12:30,L
+Away,Manchester City,Ipswich Town,15:00,L
+Home,Fulham,Ipswich Town,15:00,L
+Away,Brighton,Ipswich Town,15:00,L
+Away,Southampton,Ipswich Town,15:00,L
+Home,Aston Villa,Ipswich Town,14:00,L
+Away,West Ham,Ipswich Town,15:00,L
+Home,Everton,Ipswich Town,15:00,L
+Away,Brentford,Ipswich Town,15:00,L
+Home,Leicester City,Ipswich Town,15:00,L
+Away,Tottenham,Ipswich Town,15:00,L
+Home,Manchester Utd,Ipswich Town,15:00,L
+Away,Nott'ham Forest,Ipswich Town,15:00,L
+Home,Crystal Palace,Ipswich Town,19:45,L
+Home,Bournemouth,Ipswich Town,15:00,L
+Away,Wolves,Ipswich Town,15:00,L
+Home,Newcastle Utd,Ipswich Town,15:00,L
+Away,Arsenal,Ipswich Town,15:00,L
+Home,Chelsea,Ipswich Town,15:00,L
+Away,Fulham,Ipswich Town,15:00,L
+Home,Brighton,Ipswich Town,19:45,D
+Home,Manchester City,Ipswich Town,15:00,L
+Away,Liverpool,Ipswich Town,15:00,L
+Home,Southampton,Ipswich Town,15:00,L
+Away,Aston Villa,Ipswich Town,15:00,L
+Home,Tottenham,Ipswich Town,15:00,L
+Away,Manchester Utd,Ipswich Town,20:00,L
+Away,Crystal Palace,Ipswich Town,15:00,L
+Home,Nott'ham Forest,Ipswich Town,15:00,L
+Away,Bournemouth,Ipswich Town,19:45,D
+Home,Wolves,Ipswich Town,15:00,L
+Away,Chelsea,Ipswich Town,15:00,L
+Home,Arsenal,Ipswich Town,15:00,L
+Away,Newcastle Utd,Ipswich Town,15:00,L
+Away,Everton,Ipswich Town,15:00,L
+Home,Brentford,Ipswich Town,15:00,L
+Away,Leicester City,Ipswich Town,15:00,L
+Home,West Ham,Ipswich Town,16:00,L
+Home,Tottenham,Leicester City,20:00,L
+Away,Fulham,Leicester City,15:00,L
+Home,Aston Villa,Leicester City,15:00,L
+Away,Crystal Palace,Leicester City,15:00,L
+Home,Everton,Leicester City,15:00,L
+Away,Arsenal,Leicester City,15:00,L
+Home,Bournemouth,Leicester City,15:00,L
+Away,Southampton,Leicester City,15:00,L
+Home,Nott'ham Forest,Leicester City,15:00,L
+Away,Ipswich Town,Leicester City,15:00,L
+Away,Manchester Utd,Leicester City,15:00,L
+Home,Chelsea,Leicester City,15:00,L
+Away,Brentford,Leicester City,15:00,L
+Home,West Ham,Leicester City,19:45,L
+Home,Brighton,Leicester City,15:00,L
+Away,Newcastle Utd,Leicester City,15:00,L
+Home,Wolves,Leicester City,15:00,L
+Away,Liverpool,Leicester City,15:00,L
+Home,Manchester City,Leicester City,15:00,L
+Away,Aston Villa,Leicester City,15:00,L
+Home,Crystal Palace,Leicester City,19:45,L
+Home,Fulham,Leicester City,15:00,L
+Away,Tottenham,Leicester City,15:00,L
+Away,Everton,Leicester City,15:00,L
+Home,Arsenal,Leicester City,15:00,L
+Home,Brentford,Leicester City,15:00,L
+Away,West Ham,Leicester City,19:45,L
+Away,Chelsea,Leicester City,15:00,L
+Home,Manchester Utd,Leicester City,15:00,L
+Away,Manchester City,Leicester City,19:45,L
+Home,Newcastle Utd,Leicester City,15:00,L
+Away,Brighton,Leicester City,15:00,L
+Home,Liverpool,Leicester City,15:00,L
+Away,Wolves,Leicester City,15:00,L
+Home,Southampton,Leicester City,15:00,L
+Away,Nott'ham Forest,Leicester City,15:00,L
+Home,Ipswich Town,Leicester City,15:00,L
+Away,Bournemouth,Leicester City,16:00,D
+Away,Ipswich Town,Liverpool,12:30,L
+Home,Brentford,Liverpool,16:30,W
+Away,Manchester Utd,Liverpool,16:00,W
+Home,Nott'ham Forest,Liverpool,15:00,W
+Home,Bournemouth,Liverpool,15:00,D
+Away,Wolves,Liverpool,17:30,W
+Away,Crystal Palace,Liverpool,15:00,L
+Home,Chelsea,Liverpool,15:00,D
+Away,Arsenal,Liverpool,15:00,L
+Home,Brighton,Liverpool,15:00,D
+Home,Aston Villa,Liverpool,15:00,D
+Away,Southampton,Liverpool,15:00,W
+Home,Manchester City,Liverpool,15:00,D
+Away,Newcastle Utd,Liverpool,19:45,L
+Away,Everton,Liverpool,15:00,L
+Home,Fulham,Liverpool,15:00,D
+Away,Tottenham,Liverpool,15:00,W
+Home,Leicester City,Liverpool,15:00,D
+Away,West Ham,Liverpool,15:00,W
+Home,Manchester Utd,Liverpool,15:00,L
+Away,Nott'ham Forest,Liverpool,19:45,L
+Away,Brentford,Liverpool,15:00,L
+Home,Ipswich Town,Liverpool,15:00,D
+Away,Bournemouth,Liverpool,15:00,L
+Home,Wolves,Liverpool,15:00,L
+Away,Manchester City,Liverpool,15:00,L
+Home,Newcastle Utd,Liverpool,20:00,W
+Home,Southampton,Liverpool,15:00,W
+Away,Aston Villa,Liverpool,15:00,L
+Home,Everton,Liverpool,20:00,W
+Away,Fulham,Liverpool,15:00,L
+Home,West Ham,Liverpool,15:00,W
+Away,Leicester City,Liverpool,15:00,L
+Home,Tottenham,Liverpool,15:00,W
+Away,Chelsea,Liverpool,15:00,L
+Home,Arsenal,Liverpool,15:00,L
+Away,Brighton,Liverpool,15:00,L
+Home,Crystal Palace,Liverpool,16:00,W
+Away,Chelsea,Manchester City,16:30,W
+Home,Ipswich Town,Manchester City,15:00,W
+Away,West Ham,Manchester City,17:30,W
+Home,Brentford,Manchester City,15:00,W
+Home,Arsenal,Manchester City,16:30,W
+Away,Newcastle Utd,Manchester City,12:30,W
+Home,Fulham,Manchester City,15:00,W
+Away,Wolves,Manchester City,15:00,W
+Home,Southampton,Manchester City,15:00,W
+Away,Bournemouth,Manchester City,15:00,W
+Away,Brighton,Manchester City,15:00,W
+Home,Tottenham,Manchester City,15:00,W
+Away,Liverpool,Manchester City,15:00,W
+Home,Nott'ham Forest,Manchester City,19:45,W
+Away,Crystal Palace,Manchester City,15:00,W
+Home,Manchester Utd,Manchester City,15:00,W
+Away,Aston Villa,Manchester City,15:00,W
+Home,Everton,Manchester City,15:00,W
+Away,Leicester City,Manchester City,15:00,W
+Home,West Ham,Manchester City,15:00,W
+Away,Brentford,Manchester City,19:45,W
+Away,Ipswich Town,Manchester City,15:00,W
+Home,Chelsea,Manchester City,15:00,W
+Away,Arsenal,Manchester City,15:00,W
+Home,Newcastle Utd,Manchester City,15:00,W
+Home,Liverpool,Manchester City,15:00,W
+Away,Tottenham,Manchester City,19:45,W
+Away,Nott'ham Forest,Manchester City,15:00,W
+Home,Brighton,Manchester City,15:00,W
+Home,Leicester City,Manchester City,19:45,W
+Away,Manchester Utd,Manchester City,15:00,W
+Home,Crystal Palace,Manchester City,15:00,W
+Away,Everton,Manchester City,15:00,W
+Home,Aston Villa,Manchester City,15:00,W
+Home,Wolves,Manchester City,15:00,W
+Away,Southampton,Manchester City,15:00,W
+Home,Bournemouth,Manchester City,15:00,W
+Away,Fulham,Manchester City,16:00,W
+Home,Fulham,Manchester United,20:00,W
+Away,Brighton,Manchester United,12:30,L
+Home,Liverpool,Manchester United,16:00,L
+Away,Southampton,Manchester United,12:30,L
+Away,Crystal Palace,Manchester United,17:30,W
+Home,Tottenham,Manchester United,16:30,W
+Away,Aston Villa,Manchester United,15:00,L
+Home,Brentford,Manchester United,15:00,L
+Away,West Ham,Manchester United,15:00,L
+Home,Chelsea,Manchester United,15:00,L
+Home,Leicester City,Manchester United,15:00,L
+Away,Ipswich Town,Manchester United,15:00,L
+Home,Everton,Manchester United,15:00,L
+Away,Arsenal,Manchester United,19:45,L
+Home,Nott'ham Forest,Manchester United,15:00,W
+Away,Manchester City,Manchester United,15:00,L
+Home,Bournemouth,Manchester United,15:00,L
+Away,Wolves,Manchester United,15:00,L
+Home,Newcastle Utd,Manchester United,15:00,L
+Away,Liverpool,Manchester United,15:00,L
+Home,Southampton,Manchester United,20:00,W
+Home,Brighton,Manchester United,15:00,L
+Away,Fulham,Manchester United,15:00,L
+Home,Crystal Palace,Manchester United,15:00,L
+Away,Tottenham,Manchester United,15:00,L
+Away,Everton,Manchester United,15:00,L
+Home,Ipswich Town,Manchester United,20:00,W
+Home,Arsenal,Manchester United,15:00,L
+Away,Leicester City,Manchester United,15:00,L
+Away,Nott'ham Forest,Manchester United,19:45,L
+Home,Manchester City,Manchester United,15:00,L
+Away,Newcastle Utd,Manchester United,15:00,L
+Home,Wolves,Manchester United,15:00,W
+Away,Bournemouth,Manchester United,15:00,L
+Away,Brentford,Manchester United,15:00,L
+Home,West Ham,Manchester United,15:00,W
+Away,Chelsea,Manchester United,15:00,L
+Home,Aston Villa,Manchester United,16:00,L
+Home,Southampton,Newcastle United,15:00,W
+Away,Bournemouth,Newcastle United,14:00,D
+Home,Tottenham,Newcastle United,13:30,W
+Away,Wolves,Newcastle United,16:30,D
+Away,Fulham,Newcastle United,15:00,D
+Home,Manchester City,Newcastle United,12:30,W
+Away,Everton,Newcastle United,15:00,D
+Home,Brighton,Newcastle United,15:00,W
+Away,Chelsea,Newcastle United,15:00,D
+Home,Arsenal,Newcastle United,15:00,W
+Away,Nott'ham Forest,Newcastle United,15:00,W
+Home,West Ham,Newcastle United,15:00,W
+Away,Crystal Palace,Newcastle United,15:00,D
+Home,Liverpool,Newcastle United,19:45,W
+Away,Brentford,Newcastle United,15:00,D
+Home,Leicester City,Newcastle United,15:00,W
+Away,Ipswich Town,Newcastle United,15:00,D
+Home,Aston Villa,Newcastle United,15:00,W
+Away,Manchester Utd,Newcastle United,15:00,L
+Away,Tottenham,Newcastle United,15:00,W
+Home,Wolves,Newcastle United,19:45,W
+Home,Bournemouth,Newcastle United,15:00,W
+Away,Southampton,Newcastle United,15:00,W
+Home,Fulham,Newcastle United,15:00,W
+Away,Manchester City,Newcastle United,15:00,L
+Home,Nott'ham Forest,Newcastle United,15:00,W
+Away,Liverpool,Newcastle United,20:00,L
+Away,West Ham,Newcastle United,15:00,W
+Home,Crystal Palace,Newcastle United,15:00,W
+Home,Brentford,Newcastle United,19:45,W
+Away,Leicester City,Newcastle United,15:00,L
+Home,Manchester Utd,Newcastle United,15:00,W
+Away,Aston Villa,Newcastle United,15:00,L
+Home,Ipswich Town,Newcastle United,15:00,W
+Away,Brighton,Newcastle United,15:00,D
+Home,Chelsea,Newcastle United,15:00,W
+Away,Arsenal,Newcastle United,15:00,L
+Home,Everton,Newcastle United,16:00,W
+Home,Bournemouth,Nottingham Forest,15:00,L
+Away,Southampton,Nottingham Forest,15:00,W
+Home,Wolves,Nottingham Forest,15:00,L
+Away,Liverpool,Nottingham Forest,15:00,L
+Away,Brighton,Nottingham Forest,14:00,L
+Home,Fulham,Nottingham Forest,15:00,L
+Away,Chelsea,Nottingham Forest,15:00,W
+Home,Crystal Palace,Nottingham Forest,15:00,L
+Away,Leicester City,Nottingham Forest,15:00,L
+Home,West Ham,Nottingham Forest,15:00,W
+Home,Newcastle Utd,Nottingham Forest,15:00,W
+Away,Arsenal,Nottingham Forest,15:00,L
+Home,Ipswich Town,Nottingham Forest,15:00,L
+Away,Manchester City,Nottingham Forest,19:45,L
+Away,Manchester Utd,Nottingham Forest,15:00,L
+Home,Aston Villa,Nottingham Forest,15:00,L
+Away,Brentford,Nottingham Forest,15:00,L
+Home,Tottenham,Nottingham Forest,15:00,W
+Away,Everton,Nottingham Forest,15:00,W
+Away,Wolves,Nottingham Forest,15:00,L
+Home,Liverpool,Nottingham Forest,19:45,W
+Home,Southampton,Nottingham Forest,15:00,W
+Away,Bournemouth,Nottingham Forest,15:00,L
+Home,Brighton,Nottingham Forest,15:00,L
+Away,Fulham,Nottingham Forest,15:00,W
+Away,Newcastle Utd,Nottingham Forest,15:00,L
+Home,Arsenal,Nottingham Forest,19:45,L
+Home,Manchester City,Nottingham Forest,15:00,W
+Away,Ipswich Town,Nottingham Forest,15:00,W
+Home,Manchester Utd,Nottingham Forest,19:45,W
+Away,Aston Villa,Nottingham Forest,15:00,L
+Home,Everton,Nottingham Forest,15:00,L
+Away,Tottenham,Nottingham Forest,15:00,W
+Home,Brentford,Nottingham Forest,15:00,L
+Away,Crystal Palace,Nottingham Forest,15:00,W
+Home,Leicester City,Nottingham Forest,15:00,L
+Away,West Ham,Nottingham Forest,15:00,W
+Home,Chelsea,Nottingham Forest,16:00,L
+Away,Newcastle Utd,Southampton,15:00,L
+Home,Nott'ham Forest,Southampton,15:00,L
+Away,Brentford,Southampton,15:00,L
+Home,Manchester Utd,Southampton,12:30,L
+Home,Ipswich Town,Southampton,15:00,L
+Away,Bournemouth,Southampton,20:00,L
+Away,Arsenal,Southampton,15:00,L
+Home,Leicester City,Southampton,15:00,L
+Away,Manchester City,Southampton,15:00,L
+Home,Everton,Southampton,15:00,L
+Away,Wolves,Southampton,15:00,L
+Home,Liverpool,Southampton,15:00,L
+Away,Brighton,Southampton,15:00,L
+Home,Chelsea,Southampton,19:45,L
+Away,Aston Villa,Southampton,15:00,L
+Home,Tottenham,Southampton,15:00,L
+Away,Fulham,Southampton,15:00,L
+Home,West Ham,Southampton,15:00,L
+Away,Crystal Palace,Southampton,15:00,L
+Home,Brentford,Southampton,15:00,L
+Away,Manchester Utd,Southampton,20:00,L
+Away,Nott'ham Forest,Southampton,15:00,L
+Home,Newcastle Utd,Southampton,15:00,L
+Away,Ipswich Town,Southampton,15:00,L
+Home,Bournemouth,Southampton,15:00,L
+Home,Brighton,Southampton,15:00,L
+Away,Chelsea,Southampton,19:45,D
+Away,Liverpool,Southampton,15:00,L
+Home,Wolves,Southampton,15:00,L
+Home,Crystal Palace,Southampton,19:45,L
+Away,Tottenham,Southampton,15:00,L
+Home,Aston Villa,Southampton,15:00,L
+Away,West Ham,Southampton,15:00,L
+Home,Fulham,Southampton,15:00,L
+Away,Leicester City,Southampton,15:00,L
+Home,Manchester City,Southampton,15:00,L
+Away,Everton,Southampton,15:00,L
+Home,Arsenal,Southampton,16:00,L
+Away,Leicester City,Tottenham Hotspur,20:00,L
+Home,Everton,Tottenham Hotspur,15:00,L
+Away,Newcastle Utd,Tottenham Hotspur,13:30,L
+Home,Arsenal,Tottenham Hotspur,14:00,W
+Home,Brentford,Tottenham Hotspur,15:00,L
+Away,Manchester Utd,Tottenham Hotspur,16:30,W
+Away,Brighton,Tottenham Hotspur,15:00,L
+Home,West Ham,Tottenham Hotspur,15:00,W
+Away,Crystal Palace,Tottenham Hotspur,15:00,W
+Home,Aston Villa,Tottenham Hotspur,15:00,L
+Home,Ipswich Town,Tottenham Hotspur,15:00,L
+Away,Manchester City,Tottenham Hotspur,15:00,L
+Home,Fulham,Tottenham Hotspur,15:00,L
+Away,Bournemouth,Tottenham Hotspur,19:45,L
+Home,Chelsea,Tottenham Hotspur,15:00,L
+Away,Southampton,Tottenham Hotspur,15:00,W
+Home,Liverpool,Tottenham Hotspur,15:00,W
+Away,Nott'ham Forest,Tottenham Hotspur,15:00,W
+Home,Wolves,Tottenham Hotspur,15:00,W
+Home,Newcastle Utd,Tottenham Hotspur,15:00,W
+Away,Arsenal,Tottenham Hotspur,19:45,L
+Away,Everton,Tottenham Hotspur,15:00,W
+Home,Leicester City,Tottenham Hotspur,15:00,L
+Away,Brentford,Tottenham Hotspur,15:00,L
+Home,Manchester Utd,Tottenham Hotspur,15:00,W
+Away,Ipswich Town,Tottenham Hotspur,15:00,W
+Home,Manchester City,Tottenham Hotspur,19:45,W
+Home,Bournemouth,Tottenham Hotspur,15:00,L
+Away,Fulham,Tottenham Hotspur,15:00,W
+Away,Chelsea,Tottenham Hotspur,19:45,L
+Home,Southampton,Tottenham Hotspur,15:00,W
+Away,Wolves,Tottenham Hotspur,15:00,L
+Home,Nott'ham Forest,Tottenham Hotspur,15:00,W
+Away,Liverpool,Tottenham Hotspur,15:00,L
+Away,West Ham,Tottenham Hotspur,15:00,W
+Home,Crystal Palace,Tottenham Hotspur,15:00,L
+Away,Aston Villa,Tottenham Hotspur,15:00,L
+Home,Brighton,Tottenham Hotspur,16:00,L
+Home,Aston Villa,West Ham United,17:30,L
+Away,Crystal Palace,West Ham United,15:00,L
+Home,Manchester City,West Ham United,17:30,L
+Away,Fulham,West Ham United,15:00,L
+Home,Chelsea,West Ham United,12:30,L
+Away,Brentford,West Ham United,15:00,L
+Home,Ipswich Town,West Ham United,15:00,D
+Away,Tottenham,West Ham United,15:00,L
+Home,Manchester Utd,West Ham United,15:00,L
+Away,Nott'ham Forest,West Ham United,15:00,L
+Home,Everton,West Ham United,15:00,L
+Away,Newcastle Utd,West Ham United,15:00,L
+Home,Arsenal,West Ham United,15:00,L
+Away,Leicester City,West Ham United,19:45,L
+Home,Wolves,West Ham United,15:00,L
+Away,Bournemouth,West Ham United,15:00,L
+Home,Brighton,West Ham United,15:00,L
+Away,Southampton,West Ham United,15:00,L
+Home,Liverpool,West Ham United,15:00,L
+Away,Manchester City,West Ham United,15:00,L
+Home,Fulham,West Ham United,19:45,L
+Home,Crystal Palace,West Ham United,15:00,D
+Away,Aston Villa,West Ham United,15:00,L
+Away,Chelsea,West Ham United,15:00,L
+Home,Brentford,West Ham United,15:00,L
+Away,Arsenal,West Ham United,15:00,L
+Home,Leicester City,West Ham United,19:45,L
+Home,Newcastle Utd,West Ham United,15:00,L
+Away,Everton,West Ham United,15:00,L
+Away,Wolves,West Ham United,19:45,L
+Home,Bournemouth,West Ham United,15:00,L
+Away,Liverpool,West Ham United,15:00,L
+Home,Southampton,West Ham United,15:00,L
+Away,Brighton,West Ham United,15:00,L
+Home,Tottenham,West Ham United,15:00,L
+Away,Manchester Utd,West Ham United,15:00,L
+Home,Nott'ham Forest,West Ham United,15:00,L
+Away,Ipswich Town,West Ham United,16:00,L
+Away,Arsenal,Wolverhampton Wanderers,15:00,L
+Home,Chelsea,Wolverhampton Wanderers,14:00,L
+Away,Nott'ham Forest,Wolverhampton Wanderers,15:00,L
+Home,Newcastle Utd,Wolverhampton Wanderers,16:30,L
+Away,Aston Villa,Wolverhampton Wanderers,15:00,L
+Home,Liverpool,Wolverhampton Wanderers,17:30,L
+Away,Brentford,Wolverhampton Wanderers,15:00,L
+Home,Manchester City,Wolverhampton Wanderers,15:00,L
+Away,Brighton,Wolverhampton Wanderers,15:00,L
+Home,Crystal Palace,Wolverhampton Wanderers,15:00,L
+Home,Southampton,Wolverhampton Wanderers,15:00,L
+Away,Fulham,Wolverhampton Wanderers,15:00,L
+Home,Bournemouth,Wolverhampton Wanderers,15:00,L
+Away,Everton,Wolverhampton Wanderers,19:45,L
+Away,West Ham,Wolverhampton Wanderers,15:00,L
+Home,Ipswich Town,Wolverhampton Wanderers,15:00,L
+Away,Leicester City,Wolverhampton Wanderers,15:00,L
+Home,Manchester Utd,Wolverhampton Wanderers,15:00,L
+Away,Tottenham,Wolverhampton Wanderers,15:00,L
+Home,Nott'ham Forest,Wolverhampton Wanderers,15:00,L
+Away,Newcastle Utd,Wolverhampton Wanderers,19:45,L
+Away,Chelsea,Wolverhampton Wanderers,15:00,L
+Home,Arsenal,Wolverhampton Wanderers,15:00,L
+Home,Aston Villa,Wolverhampton Wanderers,15:00,L
+Away,Liverpool,Wolverhampton Wanderers,15:00,L
+Away,Bournemouth,Wolverhampton Wanderers,15:00,L
+Home,Fulham,Wolverhampton Wanderers,19:45,L
+Home,Everton,Wolverhampton Wanderers,15:00,L
+Away,Southampton,Wolverhampton Wanderers,15:00,L
+Home,West Ham,Wolverhampton Wanderers,19:45,L
+Away,Ipswich Town,Wolverhampton Wanderers,15:00,L
+Home,Tottenham,Wolverhampton Wanderers,15:00,L
+Away,Manchester Utd,Wolverhampton Wanderers,15:00,L
+Home,Leicester City,Wolverhampton Wanderers,15:00,L
+Away,Manchester City,Wolverhampton Wanderers,15:00,L
+Home,Brighton,Wolverhampton Wanderers,15:00,L
+Away,Crystal Palace,Wolverhampton Wanderers,15:00,L
+Home,Brentford,Wolverhampton Wanderers,16:00,L
