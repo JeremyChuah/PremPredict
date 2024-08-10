@@ -49,7 +49,7 @@ To use the project and get started
    ```
 ## Data Source
 
-This project scrapes data from [FB red](https://fbref.com/en).
+This project scrapes data from [FB ref](https://fbref.com/en).
 
 <!-- CONTACT -->
 ## Contact
